@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/DevInAIWorld" alt="stars" />
-  <img src="https://img.shields.io/github/forks/DevInAIWorld" alt="forks" />
-  <img src="https://img.shields.io/github/license/DevInAIWorld" alt="license" />
+  <img src="https://img.shields.io/github/stars/DaveRoey96/DevInAIWorld" alt="stars" />
+  <img src="https://img.shields.io/github/forks/DaveRoey96/DevInAIWorld" alt="forks" />
+  <img src="https://img.shields.io/github/license/DaveRoey96/DevInAIWorld" alt="license" />
 </p>
 
 <p align="center">
